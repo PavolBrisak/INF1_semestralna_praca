@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HraciaPlocha
+comment0.text=\r\n\ Trieda\ vytv\u00E1ra\ okno,\ na\ ktor\u00E9\ sa\ vlo\u017Ei\ hra\ had\u00EDka.\r\n\ \r\n\ @author\ \ \ \ \ \ Pavol\ Bri\u0161\u00E1k\r\n\ @version\ \ \ \ \ 1.0\r\n
+comment1.params=pocetHracov\ typMapy\ typHada\ typHada2\ menoHraca\ menoHraca2
+comment1.target=HraciaPlocha(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Kon\u0161truktor\ triedy,\ v\ ktorom\ sa\ inicializuj\u00FA\ atrib\u00FAty.\r\n\ N\u00E1sledne\ sa\ zapne\ hra.\r\n\ \r\n\ @param\ pocetHracov\ \ \ \ \ po\u010Det\ hr\u00E1\u010Dov\r\n\ @param\ typMapy\ \ \ \ \ \ \ \ \ typ\ mapy\r\n\ @param\ typHada\ \ \ \ \ \ \ \ \ typ\ hada\r\n\ @param\ typHada2\ \ \ \ \ \ \ \ typ\ druh\u00E9ho\ hada\r\n\ @param\ menoHraca\ \ \ \ \ \ \ meno\ hr\u00E1\u010Da\r\n\ @param\ menoHraca2\ \ \ \ \ \ meno\ druh\u00E9ho\ hr\u00E1\u010Da\r\n
+comment2.params=pocetHracov\ typMapy\ typHada\ typHada2\ menoHraca\ menoHraca2
+comment2.target=void\ zapniHru(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Met\u00F3da\ spust\u00ED\ triedu\ hry\ had\u00EDka\ pod\u013Ea\ zvolen\u00E9ho\ po\u010Dtu\ hr\u00E1\u010Dov.\r\n\ \r\n\ @param\ pocetHracov\ \ \ \ \ po\u010Det\ hr\u00E1\u010Dov\r\n\ @param\ typMapy\ \ \ \ \ \ \ \ \ typ\ mapy\r\n\ @param\ typHada\ \ \ \ \ \ \ \ \ typ\ hada\r\n\ @param\ typHada2\ \ \ \ \ \ \ \ typ\ druh\u00E9ho\ hada\r\n\ @param\ menoHraca\ \ \ \ \ \ \ meno\ hr\u00E1\u010Da\r\n\ @param\ menoHraca2\ \ \ \ \ \ meno\ druh\u00E9ho\ hr\u00E1\u010Da\r\n
+comment3.params=
+comment3.target=void\ nastavVlastnostiOkna()
+comment3.text=\r\n\ Met\u00F3da\ nastav\u00ED\ vlatnosti\ okna\ na\ ktor\u00E9\ sa\ vlo\u017Ei\ hra\ had\u00EDka.\r\n\ Nastav\u00ED\ sa\ mu\ n\u00E1zov,\ lok\u00E1ciu,\ rozmery\ a\ vidite\u013Enos\u0165.\r\n
+numComments=4
